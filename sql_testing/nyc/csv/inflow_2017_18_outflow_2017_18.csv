@@ -1,0 +1,293 @@
+county,stname,coname,returns,exempts
+11001,DC,District of Columbia,456,479
+25017,MA,Middlesex County,354,170
+25025,MA,Suffolk County,256,154
+12001,FL,Alachua County,57,73
+51013,VA,Arlington County,88,66
+09013,CT,Tolland County,55,60
+22033,LA,East Baton Rouge Parish,49,58
+01101,AL,Montgomery County,22,54
+18141,IN,St. Joseph County,36,42
+21067,KY,Fayette County,28,42
+25015,MA,Hampshire County,56,42
+19153,IA,Polk County,27,41
+40143,OK,Tulsa County,29,36
+55025,WI,Dane County,66,36
+06077,CA,San Joaquin County,20,34
+17019,IL,Champaign County,29,33
+51540,VA,Charlottesville city,36,33
+26161,MI,Washtenaw County,72,32
+47187,TN,Williamson County,27,32
+49049,UT,Utah County,22,32
+29510,MO,St. Louis city,29,31
+36109,NY,Tompkins County,77,31
+18105,IN,Monroe County,36,30
+19103,IA,Johnson County,21,27
+06061,CA,Placer County,25,26
+42027,PA,Centre County,24,21
+12073,FL,Leon County,28,20
+22071,LA,Orleans Parish,25,20
+39061,OH,Hamilton County,44,19
+42029,PA,Chester County,44,19
+40109,OK,Oklahoma County,16,16
+47093,TN,Knox County,12,15
+49035,UT,Salt Lake County,44,14
+29095,MO,Jackson County,23,11
+17097,IL,Lake County,24,8
+31055,NE,Douglas County,9,3
+51003,VA,Albemarle County,8,-2
+06113,CA,Yolo County,-5,-3
+39113,OH,Montgomery County,0,-3
+44009,RI,Washington County,4,-6
+06019,CA,Fresno County,1,-8
+33015,NH,Rockingham County,0,-12
+48339,TX,Montgomery County,-2,-13
+48141,TX,El Paso County,8,-14
+06097,CA,Sonoma County,-8,-18
+08069,CO,Larimer County,-20,-18
+37135,NC,Orange County,1,-18
+36045,NY,Jefferson County,-22,-20
+45013,SC,Beaufort County,-10,-20
+33009,NH,Grafton County,-10,-21
+39153,OH,Summit County,2,-21
+12085,FL,Martin County,-20,-23
+34001,NJ,Atlantic County,10,-23
+06087,CA,Santa Cruz County,-10,-24
+44005,RI,Newport County,-16,-24
+16001,ID,Ada County,-21,-26
+56039,WY,Teton County,-20,-27
+26099,MI,Macomb County,11,-28
+06111,CA,Ventura County,-18,-30
+35001,NM,Bernalillo County,-24,-30
+51760,VA,Richmond city,3,-30
+22055,LA,Lafayette Parish,-20,-31
+53061,WA,Snohomish County,-27,-31
+41039,OR,Lane County,-21,-32
+13051,GA,Chatham County,-8,-33
+06053,CA,Monterey County,-20,-34
+37021,NC,Buncombe County,-19,-34
+47125,TN,Montgomery County,-22,-34
+53067,WA,Thurston County,-22,-34
+13215,GA,Muscogee County,-21,-35
+32031,NV,Washoe County,-26,-35
+55079,WI,Milwaukee County,-3,-35
+50007,VT,Chittenden County,-14,-37
+06083,CA,Santa Barbara County,-15,-38
+06041,CA,Marin County,-5,-40
+39017,OH,Butler County,-25,-41
+51650,VA,Hampton city,-23,-41
+34011,NJ,Cumberland County,-22,-42
+39165,OH,Warren County,-20,-42
+15003,HI,Honolulu County,-16,-44
+37147,NC,Pitt County,-22,-44
+06029,CA,Kern County,-25,-45
+12061,FL,Indian River County,-30,-45
+17197,IL,Will County,-20,-46
+37101,NC,Johnston County,-20,-46
+09007,CT,Middlesex County,-12,-47
+24043,MD,Washington County,-21,-47
+34019,NJ,Hunterdon County,6,-48
+10005,DE,Sussex County,-28,-49
+12015,FL,Charlotte County,-25,-49
+13117,GA,Forsyth County,-26,-49
+36063,NY,Niagara County,-23,-49
+45063,SC,Lexington County,-25,-49
+51510,VA,Alexandria city,-28,-49
+23031,ME,York County,-35,-52
+26081,MI,Kent County,-12,-52
+42107,PA,Schuylkill County,-21,-52
+45091,SC,York County,-25,-55
+37129,NC,New Hanover County,-30,-56
+08041,CO,El Paso County,-32,-58
+01073,AL,Jefferson County,-31,-60
+22051,LA,Jefferson Parish,-27,-61
+36077,NY,Otsego County,-40,-61
+18057,IN,Hamilton County,-12,-62
+42025,PA,Carbon County,-40,-64
+27123,MN,Ramsey County,-25,-65
+18081,IN,Johnson County,-27,-67
+36055,NY,Monroe County,37,-67
+25021,MA,Norfolk County,56,-68
+21111,KY,Jefferson County,-30,-69
+37179,NC,Union County,-32,-70
+36039,NY,Greene County,-66,-71
+20091,KS,Johnson County,-29,-74
+24027,MD,Howard County,-17,-78
+29189,MO,St. Louis County,-16,-78
+51550,VA,Chesapeake city,-42,-78
+24021,MD,Frederick County,-45,-79
+25023,MA,Plymouth County,-29,-79
+35049,NM,Santa Fe County,-60,-79
+34037,NJ,Sussex County,-32,-82
+04019,AZ,Pima County,-48,-85
+51107,VA,Loudoun County,-31,-85
+42041,PA,Cumberland County,-44,-92
+12035,FL,Flagler County,-53,-95
+06065,CA,Riverside County,-55,-96
+24003,MD,Anne Arundel County,-37,-96
+41067,OR,Washington County,-64,-97
+06071,CA,San Bernardino County,-36,-98
+13247,GA,Rockdale County,-52,-99
+25001,MA,Barnstable County,-55,-99
+42127,PA,Wayne County,-57,-99
+23005,ME,Cumberland County,-48,-101
+34041,NJ,Warren County,-47,-102
+36083,NY,Rensselaer County,-39,-102
+36091,NY,Saratoga County,-51,-102
+26125,MI,Oakland County,0,-103
+37025,NC,Cabarrus County,-55,-103
+42075,PA,Lebanon County,-49,-104
+27037,MN,Dakota County,-42,-105
+45079,SC,Richland County,-62,-107
+25005,MA,Bristol County,-32,-109
+17043,IL,DuPage County,-39,-117
+51153,VA,Prince William County,-57,-118
+27053,MN,Hennepin County,-1,-120
+13097,GA,Douglas County,-55,-121
+08059,CO,Jefferson County,-83,-122
+09011,CT,New London County,-33,-127
+12109,FL,St. Johns County,-56,-127
+13217,GA,Newton County,-58,-129
+37067,NC,Forsyth County,-57,-131
+45045,SC,Greenville County,-59,-131
+08013,CO,Boulder County,-59,-132
+33011,NH,Hillsborough County,-64,-134
+45015,SC,Berkeley County,-72,-134
+48027,TX,Bell County,-76,-135
+34015,NJ,Gloucester County,-68,-137
+06059,CA,Orange County,-21,-139
+53053,WA,Pierce County,-81,-139
+12081,FL,Manatee County,-89,-140
+37133,NC,Onslow County,-91,-141
+51710,VA,Norfolk city,-74,-143
+25009,MA,Essex County,-42,-147
+24510,MD,Baltimore city,0,-150
+24025,MD,Harford County,-75,-154
+51059,VA,Fairfax County,-3,-157
+17031,IL,Cook County,111,-158
+48491,TX,Williamson County,-76,-158
+48029,TX,Bexar County,-67,-159
+25003,MA,Berkshire County,-93,-160
+37063,NC,Durham County,-101,-160
+34027,NJ,Morris County,28,-162
+51700,VA,Newport News city,-80,-162
+09005,CT,Litchfield County,-64,-164
+25013,MA,Hampden County,-80,-165
+08005,CO,Arapahoe County,-81,-168
+39035,OH,Cuyahoga County,-27,-168
+48121,TX,Denton County,-84,-168
+37051,NC,Cumberland County,-93,-169
+06013,CA,Contra Costa County,-71,-174
+47157,TN,Shelby County,-71,-174
+51087,VA,Henrico County,-97,-183
+36025,NY,Delaware County,-116,-185
+58000,SS,Other flows - Same State,-34,-185
+06067,CA,Sacramento County,-76,-186
+45051,SC,Horry County,-104,-186
+51041,VA,Chesterfield County,-94,-186
+36067,NY,Onondaga County,-58,-190
+51810,VA,Virginia Beach city,-74,-190
+24031,MD,Montgomery County,-26,-194
+36065,NY,Oneida County,-72,-198
+48157,TX,Fort Bend County,-66,-199
+12115,FL,Sarasota County,-109,-200
+36007,NY,Broome County,-61,-200
+12053,FL,Hernando County,-100,-203
+10001,DE,Kent County,-106,-208
+41051,OR,Multnomah County,-147,-218
+06075,CA,San Francisco County,-153,-221
+13063,GA,Clayton County,-112,-223
+48085,TX,Collin County,-60,-226
+06001,CA,Alameda County,-119,-230
+42003,PA,Allegheny County,-74,-230
+47037,TN,Davidson County,-133,-231
+48439,TX,Tarrant County,-94,-232
+25027,MA,Worcester County,-69,-233
+45019,SC,Charleston County,-122,-233
+12083,FL,Marion County,-137,-245
+12031,FL,Duval County,-102,-258
+36021,NY,Columbia County,-166,-258
+37081,NC,Guilford County,-127,-259
+12021,FL,Collier County,-123,-260
+24033,MD,Prince George's County,-142,-262
+42045,PA,Delaware County,-84,-264
+06081,CA,San Mateo County,-140,-267
+42017,PA,Bucks County,-85,-268
+34007,NJ,Camden County,-88,-271
+42091,PA,Montgomery County,-47,-277
+18097,IN,Marion County,-118,-278
+24005,MD,Baltimore County,-121,-283
+42069,PA,Lackawanna County,-107,-284
+12009,FL,Brevard County,-139,-285
+48113,TX,Dallas County,-91,-288
+42133,PA,York County,-128,-289
+13067,GA,Cobb County,-122,-293
+36105,NY,Sullivan County,-193,-297
+48453,TX,Travis County,-186,-301
+42103,PA,Pike County,-144,-309
+34035,NJ,Somerset County,-73,-310
+13151,GA,Henry County,-150,-315
+42071,PA,Lancaster County,-150,-326
+12117,FL,Seminole County,-147,-333
+10003,DE,New Castle County,-137,-343
+42043,PA,Dauphin County,-144,-346
+12111,FL,St. Lucie County,-198,-351
+12127,FL,Volusia County,-197,-366
+39049,OH,Franklin County,-119,-368
+06085,CA,Santa Clara County,-229,-369
+34005,NJ,Burlington County,-129,-373
+12103,FL,Pinellas County,-218,-376
+34021,NJ,Mercer County,-68,-390
+12101,FL,Pasco County,-238,-415
+36093,NY,Schenectady County,-179,-418
+13121,GA,Fulton County,-168,-419
+36001,NY,Albany County,-163,-431
+44007,RI,Providence County,-160,-434
+12071,FL,Lee County,-233,-435
+12069,FL,Lake County,-214,-438
+06073,CA,San Diego County,-251,-452
+13089,GA,DeKalb County,-221,-470
+09003,CT,Hartford County,-109,-496
+32003,NV,Clark County,-310,-530
+04013,AZ,Maricopa County,-215,-559
+48201,TX,Harris County,-192,-561
+36079,NY,Putnam County,-257,-579
+36111,NY,Ulster County,-345,-595
+42095,PA,Northampton County,-256,-607
+12105,FL,Polk County,-301,-610
+08031,CO,Denver County,-430,-622
+42011,PA,Berks County,-266,-666
+26163,MI,Wayne County,-219,-686
+37183,NC,Wake County,-322,-719
+53033,WA,King County,-566,-887
+13135,GA,Gwinnett County,-367,-910
+37119,NC,Mecklenburg County,-444,-940
+42079,PA,Luzerne County,-400,-956
+12097,FL,Osceola County,-446,-993
+36029,NY,Erie County,-335,-1097
+12057,FL,Hillsborough County,-528,-1099
+42077,PA,Lehigh County,-535,-1192
+34031,NJ,Passaic County,-525,-1271
+12086,FL,Miami-Dade County,-602,-1303
+12099,FL,Palm Beach County,-673,-1356
+09009,CT,New Haven County,-433,-1359
+12095,FL,Orange County,-656,-1454
+36027,NY,Dutchess County,-606,-1455
+42089,PA,Monroe County,-593,-1475
+12011,FL,Broward County,-909,-1705
+36087,NY,Rockland County,-657,-2221
+42101,PA,Philadelphia County,-913,-2333
+34029,NJ,Ocean County,-724,-2376
+34039,NJ,Union County,-985,-2466
+34025,NJ,Monmouth County,-1054,-2747
+34023,NJ,Middlesex County,-1177,-2853
+09001,CT,Fairfield County,-874,-3090
+36071,NY,Orange County,-1300,-3313
+59000,DS,Other flows - Different State,-585,-3764
+06037,CA,Los Angeles County,-2901,-3946
+34003,NJ,Bergen County,-1783,-4690
+34013,NJ,Essex County,-2070,-4790
+36103,NY,Suffolk County,-1902,-5090
+34017,NJ,Hudson County,-3421,-5484
+36119,NY,Westchester County,-4246,-9924
+36059,NY,Nassau County,-6013,-16522

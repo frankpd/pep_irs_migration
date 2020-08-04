@@ -9,7 +9,6 @@ outflow_2011_12
 |    36103    |       NY      |         Suffolk County        |   5638  |   9785  |
 |    34017    |       NJ      |         Hudson County         |   5655  |   8761  |
 |    34003    |       NJ      |         Bergen County         |   4052  |   7687  |
-|    57001    |       FR      |       Foreign - Overseas      |   4557  |   7343  |
 |    06037    |       CA      |       Los Angeles County      |   4353  |   5821  |
 |    09001    |       CT      |        Fairfield County       |   2852  |   5422  |
 |    34013    |       NJ      |          Essex County         |   2791  |   5180  |
@@ -17,7 +16,6 @@ outflow_2011_12
 |    12086    |       FL      |       Miami-Dade County       |   3015  |   4381  |
 |    12011    |       FL      |         Broward County        |   2566  |   3941  |
 |    42101    |       PA      |      Philadelphia County      |   2349  |   3813  |
-|    57003    |       FR      |     Foreign - Puerto Rico     |   2518  |   3630  |
 |    17031    |       IL      |          Cook County          |   2095  |   2937  |
 |    34039    |       NJ      |          Union County         |   1510  |   2849  |
 |    36071    |       NY      |         Orange County         |   1411  |   2849  |
@@ -83,7 +81,6 @@ outflow_2011_12
 |    42091    |       PA      |       Montgomery County       |   382   |   631   |
 |    12117    |       FL      |        Seminole County        |   332   |   621   |
 |    39035    |       OH      |        Cuyahoga County        |   338   |   604   |
-|    57005    |       FR      |     Foreign - APO/FPO ZIPs    |   346   |   586   |
 |    12071    |       FL      |           Lee County          |   345   |   584   |
 |    36093    |       NY      |       Schenectady County      |   282   |   583   |
 |    12105    |       FL      |          Polk County          |   309   |   572   |
@@ -342,7 +339,6 @@ outflow_2011_12
 |    51730    |       VA      |        Petersburg city        |    14   |    33   |
 |    13179    |       GA      |         Liberty County        |    16   |    32   |
 |    37071    |       NC      |         Gaston County         |    16   |    32   |
-|    57009    |       FR      |     Foreign - Other flows     |    22   |    32   |
 |    36063    |       NY      |         Niagara County        |    21   |    31   |
 |    08035    |       CO      |         Douglas County        |    20   |    30   |
 |    06055    |       CA      |          Napa County          |    20   |    29   |
@@ -411,7 +407,6 @@ outflow_2011_12
 |    20045    |       KS      |         Douglas County        |    11   |    13   |
 |    22103    |       LA      |       St. Tammany Parish      |    10   |    13   |
 |    26139    |       MI      |         Ottawa County         |    11   |    13   |
-|    57007    |       FR      |  Foreign - US Virgin Islands  |    10   |    13   |
 |    18157    |       IN      |       Tippecanoe County       |    11   |    12   |
 |    53063    |       WA      |         Spokane County        |    11   |    12   |
 |    53073    |       WA      |         Whatcom County        |    12   |    12   |

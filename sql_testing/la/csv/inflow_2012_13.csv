@@ -16,7 +16,6 @@ origin,st_orig_abbrv,co_orig_name,returns,exempts
 53033,WA,King County,1312,2069
 06067,CA,Sacramento County,1153,1901
 36047,NY,Kings County,1426,1876
-57001,FR,Foreign - Overseas,892,1744
 48201,TX,Harris County,929,1608
 06083,CA,Santa Barbara County,1014,1516
 12086,FL,Miami-Dade County,929,1463
@@ -26,7 +25,6 @@ origin,st_orig_abbrv,co_orig_name,returns,exempts
 15003,HI,Honolulu County,680,1216
 06081,CA,San Mateo County,748,1111
 36081,NY,Queens County,696,1043
-57005,FR,Foreign - APO/FPO ZIPs,544,948
 49035,UT,Salt Lake County,433,888
 12011,FL,Broward County,564,829
 13121,GA,Fulton County,530,825
@@ -292,7 +290,6 @@ origin,st_orig_abbrv,co_orig_name,returns,exempts
 48303,TX,Lubbock County,39,61
 02090,AK,Fairbanks North Star Borough,37,60
 09011,CT,New London County,37,60
-57003,FR,Foreign - Puerto Rico,27,60
 32005,NV,Douglas County,38,59
 42077,PA,Lehigh County,41,59
 20061,KS,Geary County,32,58
@@ -384,7 +381,6 @@ origin,st_orig_abbrv,co_orig_name,returns,exempts
 20045,KS,Douglas County,32,38
 26049,MI,Genesee County,30,38
 48257,TX,Kaufman County,14,38
-57009,FR,Foreign - Other flows,18,38
 20177,KS,Shawnee County,17,37
 26093,MI,Livingston County,21,37
 38017,ND,Cass County,22,37

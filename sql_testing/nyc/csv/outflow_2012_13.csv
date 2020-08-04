@@ -6,7 +6,6 @@ destination,st_dest_abbrv,co_dest_name,returns,exempts
 34017,NJ,Hudson County,5761,9141
 34003,NJ,Bergen County,4163,7977
 06037,CA,Los Angeles County,5054,7374
-57001,FR,Foreign - Overseas,3652,6375
 09001,CT,Fairfield County,3094,5834
 34013,NJ,Essex County,2814,5536
 48453,TX,Travis County,2941,4452
@@ -40,7 +39,6 @@ destination,st_dest_abbrv,co_dest_name,returns,exempts
 34027,NJ,Morris County,732,1261
 09003,CT,Hartford County,683,1256
 12097,FL,Osceola County,564,1242
-57003,FR,Foreign - Puerto Rico,640,1235
 06073,CA,San Diego County,847,1232
 13135,GA,Gwinnett County,552,1170
 48113,TX,Dallas County,671,1164
@@ -93,7 +91,6 @@ destination,st_dest_abbrv,co_dest_name,returns,exempts
 34005,NJ,Burlington County,274,504
 06081,CA,San Mateo County,317,500
 25027,MA,Worcester County,282,500
-57005,FR,Foreign - APO/FPO ZIPs,303,493
 36093,NY,Schenectady County,239,484
 42017,PA,Bucks County,276,477
 08031,CO,Denver County,357,465
@@ -417,4 +414,3 @@ destination,st_dest_abbrv,co_dest_name,returns,exempts
 48355,TX,Nueces County,11,12
 36011,NY,Cayuga County,10,11
 54011,WV,Cabell County,10,10
-57009,FR,Foreign - Other flows,,

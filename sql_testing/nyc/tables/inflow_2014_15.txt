@@ -12,7 +12,6 @@ inflow_2014_15
 | 06037  |       CA      |       Los Angeles County      |   2743  |   3465  |
 | 48453  |       TX      |         Travis County         |   1693  |   3067  |
 | 09001  |       CT      |        Fairfield County       |   2191  |   2966  |
-| 57001  |       FR      |       Foreign - Overseas      |   1691  |   2872  |
 | 34013  |       NJ      |          Essex County         |   1764  |   2861  |
 | 34023  |       NJ      |        Middlesex County       |   1342  |   2080  |
 | 12086  |       FL      |       Miami-Dade County       |   1410  |   2062  |
@@ -38,7 +37,6 @@ inflow_2014_15
 | 48201  |       TX      |         Harris County         |   622   |   917   |
 | 36027  |       NY      |        Dutchess County        |   560   |   840   |
 | 09003  |       CT      |        Hartford County        |   559   |   780   |
-| 57009  |       FR      |     Foreign - Other flows     |   391   |   780   |
 | 53033  |       WA      |          King County          |   590   |   763   |
 | 13121  |       GA      |         Fulton County         |   538   |   755   |
 | 12057  |       FL      |      Hillsborough County      |   454   |   750   |
@@ -68,7 +66,6 @@ inflow_2014_15
 | 36055  |       NY      |         Monroe County         |   334   |   459   |
 | 42003  |       PA      |        Allegheny County       |   364   |   456   |
 | 39049  |       OH      |        Franklin County        |   297   |   428   |
-| 57005  |       FR      |     Foreign - APO/FPO ZIPs    |   252   |   422   |
 | 12097  |       FL      |         Osceola County        |   219   |   417   |
 | 36111  |       NY      |         Ulster County         |   282   |   413   |
 | 36067  |       NY      |        Onondaga County        |   302   |   408   |
@@ -90,7 +87,6 @@ inflow_2014_15
 | 42045  |       PA      |        Delaware County        |   237   |   326   |
 | 09011  |       CT      |       New London County       |   203   |   319   |
 | 51013  |       VA      |        Arlington County       |   262   |   318   |
-| 57003  |       FR      |     Foreign - Puerto Rico     |   145   |   298   |
 | 36007  |       NY      |         Broome County         |   175   |   287   |
 | 12031  |       FL      |          Duval County         |   176   |   281   |
 | 26125  |       MI      |         Oakland County        |   224   |   278   |

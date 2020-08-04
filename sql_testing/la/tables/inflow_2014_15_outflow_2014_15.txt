@@ -19,7 +19,6 @@ inflow_2014_15_outflow_2014_15
 | 17043  |   IL   |         DuPage County         |    90   |   103   |
 | 36119  |   NY   |       Westchester County      |    81   |   103   |
 | 51059  |   VA   |         Fairfax County        |   101   |   102   |
-| 57005  |   FR   |     Foreign - APO/FPO ZIPs    |    38   |    98   |
 | 29189  |   MO   |        St. Louis County       |    69   |    97   |
 | 39035  |   OH   |        Cuyahoga County        |    69   |    93   |
 | 34003  |   NJ   |         Bergen County         |    72   |    91   |
@@ -273,7 +272,6 @@ inflow_2014_15_outflow_2014_15
 | 53005  |   WA   |         Benton County         |    -9   |   -38   |
 | 53015  |   WA   |         Cowlitz County        |   -27   |   -38   |
 | 47187  |   TN   |       Williamson County       |    -9   |   -39   |
-| 57003  |   FR   |     Foreign - Puerto Rico     |   -15   |   -39   |
 | 13113  |   GA   |         Fayette County        |   -24   |   -40   |
 | 30031  |   MT   |        Gallatin County        |   -26   |   -40   |
 | 41011  |   OR   |          Coos County          |   -21   |   -40   |
@@ -331,7 +329,6 @@ inflow_2014_15_outflow_2014_15
 | 49005  |   UT   |          Cache County         |   -27   |   -58   |
 | 51810  |   VA   |      Virginia Beach city      |   -26   |   -58   |
 | 53021  |   WA   |        Franklin County        |   -25   |   -59   |
-| 57009  |   FR   |     Foreign - Other flows     |   -31   |   -59   |
 | 08045  |   CO   |        Garfield County        |   -26   |   -60   |
 | 12009  |   FL   |         Brevard County        |   -28   |   -60   |
 | 12103  |   FL   |        Pinellas County        |   -23   |   -60   |
@@ -416,7 +413,6 @@ inflow_2014_15_outflow_2014_15
 | 59000  |   DS   | Other flows - Different State |   237   |   -822  |
 | 06029  |   CA   |          Kern County          |   -452  |  -1141  |
 | 04013  |   AZ   |        Maricopa County        |   -403  |  -1235  |
-| 57001  |   FR   |       Foreign - Overseas      |   -954  |  -1513  |
 | 06073  |   CA   |        San Diego County       |   -682  |  -1595  |
 | 06111  |   CA   |         Ventura County        |   -702  |  -1727  |
 | 06059  |   CA   |         Orange County         |  -1912  |  -4827  |

@@ -4,7 +4,6 @@ destination,st_dest_abbrv,co_dest_name,returns,exempts
 36119,NY,Westchester County,7274,13986
 36103,NY,Suffolk County,4620,8171
 34017,NJ,Hudson County,4629,7273
-57001,FR,Foreign - Overseas,3763,6666
 34003,NJ,Bergen County,3073,5816
 06037,CA,Los Angeles County,3975,5365
 34013,NJ,Essex County,2452,4791
@@ -50,7 +49,6 @@ destination,st_dest_abbrv,co_dest_name,returns,exempts
 36001,NY,Albany County,491,826
 48113,TX,Dallas County,508,812
 13089,GA,DeKalb County,448,810
-57009,FR,Foreign - Other flows,436,805
 37183,NC,Wake County,406,791
 24033,MD,Prince George's County,411,770
 32003,NV,Clark County,482,767
@@ -70,7 +68,6 @@ destination,st_dest_abbrv,co_dest_name,returns,exempts
 12103,FL,Pinellas County,379,587
 25009,MA,Essex County,339,585
 24510,MD,Baltimore city,333,582
-57003,FR,Foreign - Puerto Rico,319,557
 42095,PA,Northampton County,284,539
 12071,FL,Lee County,293,514
 12117,FL,Seminole County,259,503
@@ -93,7 +90,6 @@ destination,st_dest_abbrv,co_dest_name,returns,exempts
 42091,PA,Montgomery County,250,407
 25027,MA,Worcester County,219,405
 47037,TN,Davidson County,280,400
-57005,FR,Foreign - APO/FPO ZIPs,268,398
 06081,CA,San Mateo County,252,392
 42103,PA,Pike County,190,374
 27053,MN,Hennepin County,239,368

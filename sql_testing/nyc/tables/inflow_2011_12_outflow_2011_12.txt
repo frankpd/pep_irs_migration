@@ -62,7 +62,6 @@ inflow_2011_12_outflow_2011_12
 | 47065  |   TN   |        Hamilton County        |    5    |    15   |
 | 51199  |   VA   |          York County          |    14   |    15   |
 | 53035  |   WA   |         Kitsap County         |    13   |    15   |
-| 57005  |   FR   |     Foreign - APO/FPO ZIPs    |    17   |    15   |
 | 06107  |   CA   |         Tulare County         |    10   |    14   |
 | 27163  |   MN   |       Washington County       |    11   |    14   |
 | 28049  |   MS   |          Hinds County         |    11   |    14   |
@@ -156,7 +155,6 @@ inflow_2011_12_outflow_2011_12
 | 22103  |   LA   |       St. Tammany Parish      |   -10   |   -13   |
 | 26139  |   MI   |         Ottawa County         |   -11   |   -13   |
 | 34037  |   NJ   |         Sussex County         |    7    |   -13   |
-| 57007  |   FR   |  Foreign - US Virgin Islands  |   -10   |   -13   |
 | 21067  |   KY   |         Fayette County        |    4    |   -14   |
 | 23009  |   ME   |         Hancock County        |   -11   |   -14   |
 | 36115  |   NY   |       Washington County       |   -11   |   -14   |
@@ -173,7 +171,6 @@ inflow_2011_12_outflow_2011_12
 | 17089  |   IL   |          Kane County          |    -9   |   -16   |
 | 36045  |   NY   |        Jefferson County       |    -3   |   -16   |
 | 37037  |   NC   |         Chatham County        |   -12   |   -16   |
-| 57009  |   FR   |     Foreign - Other flows     |   -12   |   -16   |
 | 37191  |   NC   |          Wayne County         |   -11   |   -17   |
 | 39061  |   OH   |        Hamilton County        |    6    |   -17   |
 | 44003  |   RI   |          Kent County          |    1    |   -17   |
@@ -409,7 +406,6 @@ inflow_2011_12_outflow_2011_12
 | 36029  |   NY   |          Erie County          |   -59   |   -307  |
 | 42011  |   PA   |          Berks County         |   -110  |   -328  |
 | 36079  |   NY   |         Putnam County         |   -141  |   -349  |
-| 57003  |   FR   |     Foreign - Puerto Rico     |    39   |   -353  |
 | 36093  |   NY   |       Schenectady County      |   -142  |   -356  |
 | 26163  |   MI   |          Wayne County         |   -220  |   -379  |
 | 32003  |   NV   |          Clark County         |   -207  |   -383  |
@@ -446,7 +442,6 @@ inflow_2011_12_outflow_2011_12
 | 34003  |   NJ   |         Bergen County         |   -732  |  -2294  |
 | 34017  |   NJ   |         Hudson County         |  -1340  |  -2453  |
 | 59000  |   DS   | Other flows - Different State |   -568  |  -2958  |
-| 57001  |   FR   |       Foreign - Overseas      |  -2865  |  -4617  |
 | 36119  |   NY   |       Westchester County      |  -1832  |  -5379  |
 | 36059  |   NY   |         Nassau County         |  -2935  |  -8808  |
 +--------+--------+-------------------------------+---------+---------+

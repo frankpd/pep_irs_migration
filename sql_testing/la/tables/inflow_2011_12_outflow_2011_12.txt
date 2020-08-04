@@ -128,7 +128,6 @@ inflow_2011_12_outflow_2011_12
 | 34001  |   NJ   |        Atlantic County        |    7    |    21   |
 | 37049  |   NC   |         Craven County         |    10   |    21   |
 | 48349  |   TX   |         Navarro County        |    12   |    21   |
-| 57005  |   FR   |     Foreign - APO/FPO ZIPs    |    52   |    21   |
 | 04005  |   AZ   |        Coconino County        |    16   |    20   |
 | 10003  |   DE   |       New Castle County       |    25   |    20   |
 | 12005  |   FL   |           Bay County          |    9    |    20   |
@@ -156,7 +155,6 @@ inflow_2011_12_outflow_2011_12
 | 33015  |   NH   |       Rockingham County       |    0    |    18   |
 | 50023  |   VT   |       Washington County       |    13   |    18   |
 | 51550  |   VA   |        Chesapeake city        |    16   |    18   |
-| 57009  |   FR   |     Foreign - Other flows     |    -3   |    18   |
 | 13139  |   GA   |          Hall County          |    4    |    17   |
 | 13151  |   GA   |          Henry County         |    11   |    17   |
 | 17091  |   IL   |        Kankakee County        |    11   |    17   |
@@ -414,7 +412,6 @@ inflow_2011_12_outflow_2011_12
 | 33005  |   NH   |        Cheshire County        |   -11   |   -12   |
 | 51179  |   VA   |        Stafford County        |    -4   |   -12   |
 | 55133  |   WI   |        Waukesha County        |    -2   |   -12   |
-| 57007  |   FR   |  Foreign - US Virgin Islands  |   -11   |   -12   |
 | 01125  |   AL   |       Tuscaloosa County       |    -6   |   -13   |
 | 08067  |   CO   |        La Plata County        |    -2   |   -13   |
 | 17077  |   IL   |         Jackson County        |   -11   |   -13   |
@@ -590,7 +587,6 @@ inflow_2011_12_outflow_2011_12
 | 53029  |   WA   |         Island County         |    -8   |   -36   |
 | 47149  |   TN   |       Rutherford County       |   -20   |   -37   |
 | 48375  |   TX   |         Potter County         |   -11   |   -37   |
-| 57003  |   FR   |     Foreign - Puerto Rico     |   -24   |   -37   |
 | 20209  |   KS   |        Wyandotte County       |   -15   |   -38   |
 | 37051  |   NC   |       Cumberland County       |    -6   |   -38   |
 | 41017  |   OR   |        Deschutes County       |   -37   |   -38   |
@@ -706,7 +702,6 @@ inflow_2011_12_outflow_2011_12
 | 59000  |   DS   | Other flows - Different State |   -284  |   -901  |
 | 06029  |   CA   |          Kern County          |   -572  |  -1469  |
 | 06111  |   CA   |         Ventura County        |   -618  |  -1909  |
-| 57001  |   FR   |       Foreign - Overseas      |  -1217  |  -2139  |
 | 32003  |   NV   |          Clark County         |  -1059  |  -2387  |
 | 06065  |   CA   |        Riverside County       |  -2446  |  -6193  |
 | 06059  |   CA   |         Orange County         |  -2630  |  -6783  |

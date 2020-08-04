@@ -19,7 +19,6 @@ inflow_2011_12
 | 06075  |       CA      |      San Francisco County     |   1826  |   2329  |
 | 53033  |       WA      |          King County          |   1353  |   2133  |
 | 06067  |       CA      |       Sacramento County       |   1214  |   1967  |
-| 57001  |       FR      |       Foreign - Overseas      |   997   |   1685  |
 | 48201  |       TX      |         Harris County         |   985   |   1627  |
 | 06019  |       CA      |         Fresno County         |   872   |   1556  |
 | 36047  |       NY      |          Kings County         |   1123  |   1496  |
@@ -31,7 +30,6 @@ inflow_2011_12
 | 15003  |       HI      |        Honolulu County        |   661   |   1095  |
 | 36081  |       NY      |         Queens County         |   724   |   1026  |
 | 49035  |       UT      |        Salt Lake County       |   442   |   911   |
-| 57005  |       FR      |     Foreign - APO/FPO ZIPs    |   548   |   907   |
 | 12011  |       FL      |         Broward County        |   618   |   882   |
 | 13121  |       GA      |         Fulton County         |   568   |   851   |
 | 06107  |       CA      |         Tulare County         |   367   |   762   |
@@ -241,7 +239,6 @@ inflow_2011_12
 | 39153  |       OH      |         Summit County         |    66   |    83   |
 | 12021  |       FL      |         Collier County        |    60   |    82   |
 | 51760  |       VA      |         Richmond city         |    50   |    81   |
-| 57009  |       FR      |     Foreign - Other flows     |    27   |    80   |
 | 20061  |       KS      |          Geary County         |    41   |    79   |
 | 27037  |       MN      |         Dakota County         |    54   |    79   |
 | 05143  |       AR      |       Washington County       |    45   |    77   |
@@ -269,7 +266,6 @@ inflow_2011_12
 | 33015  |       NH      |       Rockingham County       |    38   |    66   |
 | 51700  |       VA      |       Newport News city       |    41   |    66   |
 | 12111  |       FL      |        St. Lucie County       |    47   |    65   |
-| 57003  |       FR      |     Foreign - Puerto Rico     |    34   |    65   |
 | 09011  |       CT      |       New London County       |    41   |    64   |
 | 12081  |       FL      |         Manatee County        |    45   |    64   |
 | 25001  |       MA      |       Barnstable County       |    42   |    64   |

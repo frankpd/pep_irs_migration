@@ -19,7 +19,6 @@ inflow_2013_14
 | 06085  |       CA      |       Santa Clara County      |   1432  |   2225  |
 | 53033  |       WA      |          King County          |   1245  |   1991  |
 | 36047  |       NY      |          Kings County         |   1479  |   1970  |
-| 57001  |       FR      |       Foreign - Overseas      |   964   |   1895  |
 | 06067  |       CA      |       Sacramento County       |   1014  |   1622  |
 | 06083  |       CA      |      Santa Barbara County     |   1032  |   1492  |
 | 48201  |       TX      |         Harris County         |   870   |   1469  |
@@ -31,7 +30,6 @@ inflow_2013_14
 | 06081  |       CA      |        San Mateo County       |   674   |   1061  |
 | 36081  |       NY      |         Queens County         |   696   |   1001  |
 | 48453  |       TX      |         Travis County         |   641   |   997   |
-| 57005  |       FR      |     Foreign - APO/FPO ZIPs    |   536   |   941   |
 | 25017  |       MA      |        Middlesex County       |   551   |   778   |
 | 49035  |       UT      |        Salt Lake County       |   396   |   746   |
 | 48439  |       TX      |         Tarrant County        |   385   |   706   |
@@ -275,7 +273,6 @@ inflow_2013_14
 | 33011  |       NH      |      Hillsborough County      |    50   |    60   |
 | 48303  |       TX      |         Lubbock County        |    37   |    60   |
 | 37135  |       NC      |         Orange County         |    36   |    59   |
-| 57003  |       FR      |     Foreign - Puerto Rico     |    30   |    59   |
 | 12033  |       FL      |        Escambia County        |    33   |    58   |
 | 13179  |       GA      |         Liberty County        |    25   |    58   |
 | 18089  |       IN      |          Lake County          |    41   |    58   |
@@ -327,7 +324,6 @@ inflow_2013_14
 | 31109  |       NE      |        Lancaster County       |    31   |    45   |
 | 37129  |       NC      |       New Hanover County      |    34   |    45   |
 | 40027  |       OK      |        Cleveland County       |    32   |    45   |
-| 57009  |       FR      |     Foreign - Other flows     |    21   |    45   |
 | 09011  |       CT      |       New London County       |    37   |    44   |
 | 13113  |       GA      |         Fayette County        |    23   |    44   |
 | 17119  |       IL      |         Madison County        |    23   |    44   |

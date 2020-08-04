@@ -45,7 +45,6 @@ county,stname,coname,returns,exempts
 42041,PA,Cumberland County,23,25
 26161,MI,Washtenaw County,39,24
 49035,UT,Salt Lake County,21,24
-57005,FR,Foreign - APO/FPO ZIPs,-16,24
 39017,OH,Butler County,20,23
 41039,OR,Lane County,21,22
 06053,CA,Monterey County,20,21
@@ -94,7 +93,6 @@ county,stname,coname,returns,exempts
 36067,NY,Onondaga County,47,-23
 23031,ME,York County,-20,-24
 09005,CT,Litchfield County,18,-25
-57009,FR,Foreign - Other flows,-45,-25
 24025,MD,Harford County,-8,-28
 06087,CA,Santa Cruz County,-25,-30
 12085,FL,Martin County,-23,-30
@@ -204,7 +202,6 @@ county,stname,coname,returns,exempts
 36029,NY,Erie County,5,-258
 08031,CO,Denver County,-168,-259
 42011,PA,Berks County,-101,-259
-57003,FR,Foreign - Puerto Rico,-174,-259
 12105,FL,Polk County,-99,-262
 42095,PA,Northampton County,-121,-272
 12111,FL,St. Lucie County,-143,-276
@@ -249,7 +246,6 @@ county,stname,coname,returns,exempts
 34003,NJ,Bergen County,-497,-1956
 36103,NY,Suffolk County,-713,-2334
 34017,NJ,Hudson County,-1399,-2564
-57001,FR,Foreign - Overseas,-2072,-3794
 59000,DS,Other flows - Different State,-457,-4064
 36119,NY,Westchester County,-1587,-4938
 36059,NY,Nassau County,-2783,-8416

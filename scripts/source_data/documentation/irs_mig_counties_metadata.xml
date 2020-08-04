@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="http://faculty.baruch.cuny.edu/geoportal/metadata/bcgis_dcxml.css"?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="http://faculty.baruch.cuny.edu/geoportal/metadata/bcgis_dc_schema.xsd">
+<title>IRS Migration Database - Counties</title>
+<creator>Janine Billadello</creator>
+<creator>Frank Donnelly</creator>
+<subject>economy</subject>
+<subject>society</subject>
+<description>The IRS Migration Database for counties is a compilation of data from the IRS Statistics of Income Division that can be used for studying domestic migration patterns within the United States. Each year, individual tax forms are compared to forms submitted in the previous year, and if the address has changed the filer is considered to have moved. These moves are summarized into an inflow and outflow table for that year, where each record represents the number of filers who moved to (inflow) and from (outflow) one county to another county. There are also inflow and outflow totals tables that contain various sum totals of moves. The number of filers can be used to estimate household moves, while the number of exemptions can be used to estimate person moves. If the number of moves between two counties falls below a certain threshold, a county to county move is not recorded but is summarized in different aggregate categories. Five-digit ANSI FIPS codes are used to uniquely identify each county, and moves from one county to another. The GIS Lab at Baruch College CUNY created this resource to make it easier to study migration patterns over time, by compiling several decades of data stored in varying formats into one source using a Python script, separating summary totals from point to point records into separate tables, and using an open source SQLite database format which allows users to write SQL queries to create extracts and conduct analyses. Users are encouraged to consult the documentation that accompanies the data. Reporting threshold levels, data collection methodologies, aggregate categories, and county boundaries and identifiers have changed over time, which makes it challenging to use this data for historical analysis. While this dataset can be used to study domestic migration it cannot capture all possible moves, as not all people file tax forms. A separate database is published as part of this series for studying state to state migration.
+</description>
+<publisher>Newman Library (Bernard M. Baruch College)</publisher>
+<contributor>Anastasia Clark</contributor>
+<issued>2020-03</issued>
+<type>Dataset</type>
+<format>SQLite Database</format>
+<medium>Table</medium>
+<identifier>irs_migration_county.sqlite</identifier>
+<identifier>https://www.baruch.cuny.edu/confluence/display/geoportal/IRS+Migration+Database</identifier>
+<source>IRS Statistics of Income Division, Tax Stats Migration Data</source>
+<source>US Census Bureau, Substantial Changes to Counties and County Equivalent Entities: 1970-Present</source>
+<language>English</language>
+<isPartOf>IRS Migration Database</isPartOf>
+<coverage>United States</coverage>
+<spatial>name=United States; northlimit=71.406235; eastlimit=-66.969271; southlimit=18.921786; westlimit=-178.217598; units=deg; projection=WGS 84;</spatial>
+<temporal>1990-2018</temporal>
+<rights>Public</rights>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike CC BY-NC-SA</license>
+<license>https://creativecommons.org/licenses/by-nc-sa/4.0/</license>
+<provenance>Baruch CUNY</provenance>
+<accrualperiodicity>Annual</accrualperiodicity>
+</metadata>

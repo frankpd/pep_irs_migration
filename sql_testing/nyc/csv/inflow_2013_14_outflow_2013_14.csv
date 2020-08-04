@@ -6,7 +6,6 @@ county,stname,coname,returns,exempts
 34001,NJ,Atlantic County,62,86
 17019,IL,Champaign County,54,76
 47093,TN,Knox County,50,67
-57005,FR,Foreign - APO/FPO ZIPs,29,58
 26161,MI,Washtenaw County,60,54
 09013,CT,Tolland County,36,52
 26125,MI,Oakland County,63,46
@@ -33,7 +32,6 @@ county,stname,coname,returns,exempts
 33009,NH,Grafton County,25,24
 39153,OH,Summit County,23,24
 55133,WI,Waukesha County,22,24
-57009,FR,Foreign - Other flows,3,21
 27123,MN,Ramsey County,15,16
 51003,VA,Albemarle County,12,16
 29095,MO,Jackson County,28,15
@@ -228,7 +226,6 @@ county,stname,coname,returns,exempts
 13089,GA,DeKalb County,-164,-357
 53033,WA,King County,-177,-371
 06085,CA,Santa Clara County,-197,-378
-57003,FR,Foreign - Puerto Rico,-249,-388
 13067,GA,Cobb County,-163,-398
 12071,FL,Lee County,-197,-404
 24510,MD,Baltimore city,-160,-408
@@ -269,7 +266,6 @@ county,stname,coname,returns,exempts
 34003,NJ,Bergen County,-955,-2809
 34013,NJ,Essex County,-1012,-2823
 34017,NJ,Hudson County,-1747,-3089
-57001,FR,Foreign - Overseas,-1959,-3295
 59000,DS,Other flows - Different State,-460,-3677
 36119,NY,Westchester County,-2556,-6735
 36059,NY,Nassau County,-3919,-11327

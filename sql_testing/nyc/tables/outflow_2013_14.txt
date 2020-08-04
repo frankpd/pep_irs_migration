@@ -10,7 +10,6 @@ outflow_2013_14
 |    34017    |       NJ      |         Hudson County         |   5601  |   8818  |
 |    34003    |       NJ      |         Bergen County         |   3762  |   7124  |
 |    06037    |       CA      |       Los Angeles County      |   4775  |   6395  |
-|    57001    |       FR      |       Foreign - Overseas      |   3593  |   6155  |
 |    34013    |       NJ      |          Essex County         |   2874  |   5819  |
 |    09001    |       CT      |        Fairfield County       |   2959  |   5566  |
 |    48453    |       TX      |         Travis County         |   2325  |   4267  |
@@ -66,7 +65,6 @@ outflow_2013_14
 |    06059    |       CA      |         Orange County         |   554   |   848   |
 |    44007    |       RI      |       Providence County       |   459   |   843   |
 |    36111    |       NY      |         Ulster County         |   514   |   833   |
-|    57003    |       FR      |     Foreign - Puerto Rico     |   449   |   810   |
 |    42011    |       PA      |          Berks County         |   334   |   751   |
 |    42095    |       PA      |       Northampton County      |   354   |   751   |
 |    39049    |       OH      |        Franklin County        |   424   |   737   |
@@ -97,7 +95,6 @@ outflow_2013_14
 |    42045    |       PA      |        Delaware County        |   245   |   465   |
 |    42017    |       PA      |          Bucks County         |   279   |   457   |
 |    25027    |       MA      |        Worcester County       |   249   |   455   |
-|    57005    |       FR      |     Foreign - APO/FPO ZIPs    |   271   |   453   |
 |    34005    |       NJ      |       Burlington County       |   231   |   439   |
 |    12127    |       FL      |         Volusia County        |   225   |   437   |
 |    34007    |       NJ      |         Camden County         |   246   |   436   |
@@ -248,7 +245,6 @@ outflow_2013_14
 |    47187    |       TN      |       Williamson County       |    23   |    39   |
 |    51179    |       VA      |        Stafford County        |    20   |    39   |
 |    39153    |       OH      |         Summit County         |    23   |    36   |
-|    57009    |       FR      |     Foreign - Other flows     |    25   |    36   |
 |    02020    |       AK      |     Anchorage Municipality    |    21   |    35   |
 |    12073    |       FL      |          Leon County          |    21   |    35   |
 |    12085    |       FL      |         Martin County         |    20   |    35   |

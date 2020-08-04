@@ -1,40 +1,42 @@
-cbsa_code,cbsa_name,returns,exempts
+mcode,mname,returns,exempts
+0,All Other Flows,44449,75640
 37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",8227,12824
-33100,"Miami-Fort Lauderdale-West Palm Beach, FL",8088,12797
-31080,"Los Angeles-Long Beach-Anaheim, CA",5534,7946
-47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",5474,7689
-14860,"Bridgeport-Stamford-Norwalk, CT",4566,7366
-14460,"Boston-Cambridge-Newton, MA-NH",5143,6940
-45940,"Trenton, NJ",3062,5313
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL",7964,12601
+31080,"Los Angeles-Long Beach-Anaheim, CA",5482,7857
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",5447,7625
+14860,"Bridgeport-Stamford-Norwalk, CT",4401,7078
+39100,"Poughkeepsie-Newburgh-Middletown, NY",4146,6914
+14460,"Boston-Cambridge-Newton, MA-NH",5087,6828
+45940,"Trenton-Princeton, NJ",3062,5313
 16980,"Chicago-Naperville-Elgin, IL-IN-WI",3082,4403
-12060,"Atlanta-Sandy Springs-Roswell, GA",2480,4141
+12060,"Atlanta-Sandy Springs-Alpharetta, GA",2480,4141
 10900,"Allentown-Bethlehem-Easton, PA-NJ",2354,4065
-41860,"San Francisco-Oakland-Hayward, CA",2844,3680
-36740,"Orlando-Kissimmee-Sanford, FL",2054,3654
-45300,"Tampa-St. Petersburg-Clearwater, FL",1766,2859
-28740,"Kingston, NY",1541,2568
-12420,"Austin-Round Rock, TX",1434,2530
-35300,"New Haven-Milford, CT",1481,2265
+41860,"San Francisco-Oakland-Berkeley, CA",2844,3680
+36740,"Orlando-Kissimmee-Sanford, FL",2033,3609
+45300,"Tampa-St. Petersburg-Clearwater, FL",1746,2831
+12420,"Austin-Round Rock-Georgetown, TX",1434,2530
 20700,"East Stroudsburg, PA",1120,2177
+35300,"New Haven-Milford, CT",1420,2161
 12580,"Baltimore-Columbia-Towson, MD",1401,2087
-26420,"Houston-The Woodlands-Sugar Land, TX",1176,1949
-41740,"San Diego-Carlsbad, CA",1251,1913
-10580,"Albany-Schenectady-Troy, NY",1302,1882
+26420,"Houston-The Woodlands-Sugar Land, TX",1155,1909
 19100,"Dallas-Fort Worth-Arlington, TX",1202,1878
-25540,"Hartford-West Hartford-East Hartford, CT",1236,1860
-38060,"Phoenix-Mesa-Scottsdale, AZ",1109,1756
-42660,"Seattle-Tacoma-Bellevue, WA",1092,1603
+25540,"Hartford-East Hartford-Middletown, CT",1236,1860
+41740,"San Diego-Chula Vista-Carlsbad, CA",1203,1835
+38060,"Phoenix-Mesa-Chandler, AZ",1088,1721
+10580,"Albany-Schenectady-Troy, NY",1148,1661
 16740,"Charlotte-Concord-Gastonia, NC-SC",896,1535
+42660,"Seattle-Tacoma-Bellevue, WA",1051,1525
 12100,"Atlantic City-Hammonton, NJ",739,1256
-39580,"Raleigh, NC",698,1222
+39580,"Raleigh-Cary, NC",698,1222
 39300,"Providence-Warwick, RI-MA",738,1144
 41940,"San Jose-Sunnyvale-Santa Clara, CA",701,1097
 29820,"Las Vegas-Henderson-Paradise, NV",685,1048
-15380,"Buffalo-Cheektowaga-Niagara Falls, NY",703,1000
 38300,"Pittsburgh, PA",688,984
-42540,"Scranton--Wilkes-Barre--Hazleton, PA",517,963
+42540,"Scranton--Wilkes-Barre, PA",517,963
+15380,"Buffalo-Cheektowaga, NY",679,961
 40380,"Rochester, NY",616,885
 18140,"Columbus, OH",547,843
+28740,"Kingston, NY",526,790
 19820,"Detroit-Warren-Dearborn, MI",547,778
 33460,"Minneapolis-St. Paul-Bloomington, MN-WI",525,708
 45060,"Syracuse, NY",425,611
@@ -44,7 +46,6 @@ cbsa_code,cbsa_name,returns,exempts
 39740,"Reading, PA",290,561
 40060,"Richmond, VA",346,532
 49340,"Worcester, MA-CT",339,527
-26460,"Hudson, NY",307,500
 19660,"Deltona-Daytona Beach-Ormond Beach, FL",281,473
 19740,"Denver-Aurora-Lakewood, CO",371,462
 40140,"Riverside-San Bernardino-Ontario, CA",308,447
@@ -54,37 +55,38 @@ cbsa_code,cbsa_name,returns,exempts
 44140,"Springfield, MA",268,380
 37340,"Palm Bay-Melbourne-Titusville, FL",244,375
 13780,"Binghamton, NY",239,364
-46520,"Urban Honolulu, HI",241,362
 38940,"Port St. Lucie, FL",220,359
 24660,"Greensboro-High Point, NC",204,353
 38900,"Portland-Vancouver-Hillsboro, OR-WA",280,350
 20500,"Durham-Chapel Hill, NC",254,348
 41700,"San Antonio-New Braunfels, TX",223,326
-45860,"Torrington, CT",192,297
+46520,"Urban Honolulu, HI",219,305
 27060,"Ithaca, NY",238,293
 29460,"Lakeland-Winter Haven, FL",146,265
 41180,"St. Louis, MO-IL",215,265
 35380,"New Orleans-Metairie, LA",195,262
-22180,"Fayetteville, NC",128,255
 34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",175,246
 17140,"Cincinnati, OH-KY-IN",181,243
 41620,"Salt Lake City, UT",181,235
+26460,"Hudson, NY",148,234
+45860,"Torrington, CT",152,234
 11460,"Ann Arbor, MI",192,232
-33340,"Milwaukee-Waukesha-West Allis, WI",158,212
-34940,"Naples-Immokalee-Marco Island, FL",121,202
+33340,"Milwaukee-Waukesha, WI",158,212
+34940,"Naples-Marco Island, FL",121,202
 25420,"Harrisburg-Carlisle, PA",136,199
 27340,"Jacksonville, NC",100,198
-34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",112,195
 31700,"Manchester-Nashua, NH",149,190
 16700,"Charleston-North Charleston, SC",137,189
 28140,"Kansas City, MO-KS",148,188
-40900,"Sacramento--Roseville--Arden-Arcade, CA",131,187
+40900,"Sacramento-Roseville-Folsom, CA",131,187
 29540,"Lancaster, PA",116,185
+22180,"Fayetteville, NC",99,184
 26900,"Indianapolis-Carmel-Anderson, IN",122,184
 12700,"Barnstable Town, MA",143,179
 46060,"Tucson, AZ",125,177
 36100,"Ocala, FL",95,174
 32820,"Memphis, TN-MS-AR",119,164
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",90,160
 38860,"Portland-South Portland, ME",110,155
 46540,"Utica-Rome, NY",99,149
 17900,"Columbia, SC",92,141
@@ -99,15 +101,15 @@ cbsa_code,cbsa_name,returns,exempts
 38340,"Pittsfield, MA",68,98
 49180,"Winston-Salem, NC",65,95
 15540,"Burlington-South Burlington, VT",83,89
-24340,"Grand Rapids-Wyoming, MI",62,86
+24340,"Grand Rapids-Kentwood, MI",62,86
 13820,"Birmingham-Hoover, AL",65,85
 23540,"Gainesville, FL",69,85
 21340,"El Paso, TX",52,84
 42340,"Savannah, GA",57,80
 16580,"Champaign-Urbana, IL",54,76
-25940,"Hilton Head Island-Bluffton-Beaufort, SC",43,73
+25940,"Hilton Head Island-Bluffton, SC",43,73
 12940,"Baton Rouge, LA",55,71
-17200,"Claremont-Lebanon, NH-VT",58,68
+30100,"Lebanon, NH-VT",58,68
 28940,"Knoxville, TN",50,67
 48900,"Wilmington, NC",46,66
 45220,"Tallahassee, FL",52,62
@@ -120,10 +122,10 @@ cbsa_code,cbsa_name,returns,exempts
 42200,"Santa Maria-Santa Barbara, CA",41,51
 11700,"Asheville, NC",41,50
 42680,"Sebastian-Vero Beach, FL",30,45
-42220,"Santa Rosa, CA",40,44
+42220,"Santa Rosa-Petaluma, CA",40,44
 28660,"Killeen-Temple, TX",23,42
 20100,"Dover, DE",23,40
-24860,"Greenville-Anderson-Mauldin, SC",28,37
+24860,"Greenville-Anderson, SC",28,37
 46140,"Tulsa, OK",25,35
 47220,"Vineland-Bridgeton, NJ",20,35
 21500,"Erie, PA",21,34

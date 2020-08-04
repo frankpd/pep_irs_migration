@@ -1,4 +1,4 @@
-destination,st_dest_abbrv,co_dest_name,hshlds,pop
+destination,st_dest_abbrv,co_dest_name,returns,exempts
 06071,CA,San Bernardino County,15750,35602
 06059,CA,Orange County,19238,35528
 06065,CA,Riverside County,9230,19877
@@ -9,7 +9,6 @@ destination,st_dest_abbrv,co_dest_name,hshlds,pop
 06029,CA,Kern County,2484,5768
 48453,TX,Travis County,2886,5637
 04013,AZ,Maricopa County,2608,4961
-57001,FR,Foreign - Overseas,1878,3372
 06085,CA,Santa Clara County,1900,3109
 06001,CA,Alameda County,1933,2982
 53033,WA,King County,1572,2578
@@ -33,7 +32,6 @@ destination,st_dest_abbrv,co_dest_name,hshlds,pop
 49035,UT,Salt Lake County,434,926
 06107,CA,Tulare County,387,868
 06077,CA,San Joaquin County,380,830
-57005,FR,Foreign - APO/FPO ZIPs,458,801
 04019,AZ,Pima County,445,769
 48085,TX,Collin County,339,736
 53053,WA,Pierce County,378,712
@@ -227,7 +225,6 @@ destination,st_dest_abbrv,co_dest_name,hshlds,pop
 35043,NM,Sandoval County,41,91
 06045,CA,Mendocino County,50,90
 51710,VA,Norfolk city,62,90
-57003,FR,Foreign - Puerto Rico,50,90
 12091,FL,Okaloosa County,47,88
 45045,SC,Greenville County,48,88
 13051,GA,Chatham County,53,87
@@ -352,7 +349,6 @@ destination,st_dest_abbrv,co_dest_name,hshlds,pop
 12019,FL,Clay County,25,48
 49021,UT,Iron County,22,48
 51179,VA,Stafford County,23,48
-57009,FR,Foreign - Other flows,24,48
 18157,IN,Tippecanoe County,25,47
 39085,OH,Lake County,23,47
 48041,TX,Brazos County,27,47

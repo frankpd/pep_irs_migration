@@ -3,17 +3,14 @@ inflow_2012_13_outflow_2012_13
 +--------+--------+-------------------------------+---------+---------+
 | county | stname |             coname            | returns | exempts |
 +--------+--------+-------------------------------+---------+---------+
-| 57003  |   FR   |     Foreign - Puerto Rico     |   628   |   954   |
 | 11001  |   DC   |      District of Columbia     |   479   |   454   |
 | 25025  |   MA   |         Suffolk County        |   311   |   274   |
 | 12073  |   FL   |          Leon County          |    98   |   118   |
 | 51013  |   VA   |        Arlington County       |    80   |    92   |
 | 12086  |   FL   |       Miami-Dade County       |   205   |    91   |
-| 57005  |   FR   |     Foreign - APO/FPO ZIPs    |    60   |    83   |
 | 27053  |   MN   |        Hennepin County        |   110   |    58   |
 | 25017  |   MA   |        Middlesex County       |   148   |    51   |
 | 02020  |   AK   |     Anchorage Municipality    |    20   |    35   |
-| 57009  |   FR   |     Foreign - Other flows     |    21   |    35   |
 | 05119  |   AR   |         Pulaski County        |    21   |    34   |
 | 13063  |   GA   |         Clayton County        |    19   |    34   |
 | 16001  |   ID   |           Ada County          |    20   |    34   |
@@ -442,7 +439,6 @@ inflow_2012_13_outflow_2012_13
 | 34017  |   NJ   |         Hudson County         |  -1467  |  -2871  |
 | 06037  |   CA   |       Los Angeles County      |  -1718  |  -3109  |
 | 59000  |   DS   | Other flows - Different State |   -703  |  -3319  |
-| 57001  |   FR   |       Foreign - Overseas      |  -1947  |  -3449  |
 | 48453  |   TX   |         Travis County         |  -2211  |  -3480  |
 | 34003  |   NJ   |         Bergen County         |  -1316  |  -3541  |
 | 36119  |   NY   |       Westchester County      |  -2991  |  -7608  |

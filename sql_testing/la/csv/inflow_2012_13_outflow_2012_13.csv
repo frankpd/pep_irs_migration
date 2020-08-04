@@ -22,7 +22,6 @@ county,stname,coname,returns,exempts
 11001,DC,District of Columbia,78,90
 17097,IL,Lake County,65,82
 17089,IL,Kane County,39,75
-57005,FR,Foreign - APO/FPO ZIPs,67,75
 12057,FL,Hillsborough County,79,68
 24031,MD,Montgomery County,42,68
 51013,VA,Arlington County,41,65
@@ -373,7 +372,6 @@ county,stname,coname,returns,exempts
 42049,PA,Erie County,3,-8
 44005,RI,Newport County,-2,-8
 48251,TX,Johnson County,-4,-8
-57003,FR,Foreign - Puerto Rico,-11,-8
 18063,IN,Hendricks County,-6,-9
 20045,KS,Douglas County,1,-9
 24009,MD,Calvert County,2,-9
@@ -403,7 +401,6 @@ county,stname,coname,returns,exempts
 48375,TX,Potter County,-5,-12
 54039,WV,Kanawha County,-1,-12
 55059,WI,Kenosha County,-1,-12
-57009,FR,Foreign - Other flows,-8,-12
 12005,FL,Bay County,-9,-13
 21151,KY,Madison County,-10,-13
 23015,ME,Lincoln County,-12,-13
@@ -703,7 +700,6 @@ county,stname,coname,returns,exempts
 48453,TX,Travis County,-739,-1269
 06073,CA,San Diego County,-380,-1333
 59000,DS,Other flows - Different State,-438,-1421
-57001,FR,Foreign - Overseas,-1017,-1724
 06111,CA,Ventura County,-1296,-3085
 32003,NV,Clark County,-2045,-3969
 06059,CA,Orange County,-2314,-5722

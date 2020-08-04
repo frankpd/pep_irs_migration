@@ -1,4 +1,4 @@
-#Frank Sept 25, 2017
+#Frank June 5, 2020
 #Create formatted text tables and csvs from irs migration database for NYC
 #Used to verify county results from Jupyter Notebook
 #Set first time: path to database
@@ -42,15 +42,16 @@ if not os.path.exists(outfolder):
     os.makedirs(os.path.join(outfolder,'csv'))
     
 #Set first time - path to database
-data_path = '~/irs_nyc_migration/data'
-db = 'irsmig_county_database'
-sqldb=os.path.join(data_path,db,'irs_migration_county.sqlite')
+data_path = os.path.join('..','scripts','source_data')
+sqldb = os.path.join(data_path,'irs_migration_county.sqlite')
 #Change target to FIPS code geographies to process
 target="('36005','36047','36061','36081','36085')" #this is nyc
 #target="('06037')" #this is la
 
-tabs_inflow=['inflow_2014_15','inflow_2013_14','inflow_2012_13','inflow_2011_12']
-tabs_outflow=['outflow_2014_15','outflow_2013_14','outflow_2012_13','outflow_2011_12']
+tabs_inflow=['inflow_2017_18','inflow_2016_17','inflow_2015_16',
+             'inflow_2014_15','inflow_2013_14','inflow_2012_13','inflow_2011_12']
+tabs_outflow=['outflow_2017_18','outflow_2016_17','outflow_2015_16',
+        'outflow_2014_15','outflow_2013_14','outflow_2012_13','outflow_2011_12']
 tabs_inout=list(zip(tabs_inflow,tabs_outflow))
 
 tabs_intotal=list((item+'_totals' for item in tabs_inflow))
@@ -59,29 +60,31 @@ tabs_net=list(zip(tabs_intotal,tabs_outtotal))
 
 #Inflows
 sql1='SELECT origin, st_orig_abbrv, co_orig_name, sum(returns) AS returns, sum(exemptions) AS exempts \
-FROM %s WHERE destination IN %s AND origin NOT IN %s GROUP BY origin, st_orig_abbrv, co_orig_name \
-ORDER BY sum(exemptions) DESC'
+FROM %s WHERE destination IN %s AND origin NOT IN %s AND st_orig_abbrv != "FR" \
+GROUP BY origin, st_orig_abbrv, co_orig_name \
+ORDER BY sum(exemptions) DESC;'
 
 #Outflows
 sql2='SELECT destination, st_dest_abbrv, co_dest_name, sum(returns) AS returns, sum(exemptions) AS exempts \
-FROM %s WHERE origin IN %s AND destination NOT IN %s GROUP BY destination, st_dest_abbrv, co_dest_name \
-ORDER BY sum(exemptions) DESC'
+FROM %s WHERE origin IN %s AND destination NOT IN %s AND st_dest_abbrv != "FR" \
+GROUP BY destination, st_dest_abbrv, co_dest_name \
+ORDER BY sum(exemptions) DESC;'
 
 #Net change
 sql3="SELECT county, stname, coname, sum(returns) AS returns, sum(exempts) AS exempts FROM \
 (SELECT origin AS county, st_orig_abbrv AS stname, co_orig_name AS coname, \
 sum(returns) AS returns, sum(exemptions) AS exempts \
-FROM %s WHERE destination IN %s AND origin NOT IN %s \
+FROM %s WHERE destination IN %s AND origin NOT IN %s AND st_orig_abbrv != 'FR' \
 GROUP BY origin \
 UNION \
 SELECT destination AS county,st_dest_abbrv AS stname, co_dest_name AS coname,\
 sum(returns)*-1 AS returns, sum(exemptions)*-1 AS exempts \
-FROM %s WHERE origin IN %s AND destination NOT IN %s \
+FROM %s WHERE origin IN %s AND destination NOT IN %s AND st_dest_abbrv != 'FR' \
 GROUP BY destination) \
-GROUP BY county ORDER BY exempts DESC"
+GROUP BY county ORDER BY exempts DESC;"
 
 #Summary net change
-sql4="SELECT i.origin, sum(i.returns - o.returns) AS Net_Change_Returns,\
+sql4="SELECT i.origin AS Summary_Level, sum(i.returns - o.returns) AS Net_Change_Returns,\
 sum(i.exemptions - o.exemptions) AS Net_Change_Exempts \
 FROM %s AS i JOIN %s AS o \
 WHERE i.uid = o.uid \

@@ -15,7 +15,6 @@ inflow_2013_14_outflow_2013_14
 | 27053  |   MN   |        Hennepin County        |   138   |   162   |
 | 34003  |   NJ   |         Bergen County         |   119   |   161   |
 | 24031  |   MD   |       Montgomery County       |   109   |   149   |
-| 57005  |   FR   |     Foreign - APO/FPO ZIPs    |    78   |   140   |
 | 25017  |   MA   |        Middlesex County       |   149   |   139   |
 | 11001  |   DC   |      District of Columbia     |    95   |   117   |
 | 34023  |   NJ   |        Middlesex County       |    71   |   117   |
@@ -187,7 +186,6 @@ inflow_2013_14_outflow_2013_14
 | 41003  |   OR   |         Benton County         |    -4   |    -2   |
 | 24021  |   MD   |        Frederick County       |    0    |    -3   |
 | 33011  |   NH   |      Hillsborough County      |    10   |    -3   |
-| 57009  |   FR   |     Foreign - Other flows     |    -3   |    -3   |
 | 18003  |   IN   |          Allen County         |    -2   |    -4   |
 | 22033  |   LA   |    East Baton Rouge Parish    |    7    |    -4   |
 | 34039  |   NJ   |          Union County         |    5    |    -4   |
@@ -271,7 +269,6 @@ inflow_2013_14_outflow_2013_14
 | 21047  |   KY   |        Christian County       |   -11   |   -31   |
 | 29165  |   MO   |         Platte County         |   -23   |   -31   |
 | 30013  |   MT   |         Cascade County        |   -20   |   -31   |
-| 57003  |   FR   |     Foreign - Puerto Rico     |   -20   |   -31   |
 | 08059  |   CO   |        Jefferson County       |   -16   |   -32   |
 | 25003  |   MA   |        Berkshire County       |   -21   |   -32   |
 | 28121  |   MS   |         Rankin County         |   -22   |   -33   |
@@ -459,7 +456,6 @@ inflow_2013_14_outflow_2013_14
 | 04013  |   AZ   |        Maricopa County        |   -466  |  -1149  |
 | 59000  |   DS   | Other flows - Different State |   -102  |  -1215  |
 | 06029  |   CA   |          Kern County          |   -415  |  -1349  |
-| 57001  |   FR   |       Foreign - Overseas      |   -914  |  -1477  |
 | 06111  |   CA   |         Ventura County        |   -959  |  -2355  |
 | 32003  |   NV   |          Clark County         |  -2212  |  -4458  |
 | 48453  |   TX   |         Travis County         |  -2245  |  -4640  |

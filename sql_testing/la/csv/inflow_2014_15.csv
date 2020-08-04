@@ -11,7 +11,6 @@ origin,st_orig_abbrv,co_orig_name,returns,exempts
 04013,AZ,Maricopa County,1772,2938
 36061,NY,New York County,1927,2483
 17031,IL,Cook County,1584,2183
-57001,FR,Foreign - Overseas,1055,2057
 06085,CA,Santa Clara County,1352,2032
 06001,CA,Alameda County,1360,2001
 06075,CA,San Francisco County,1438,1794
@@ -27,7 +26,6 @@ origin,st_orig_abbrv,co_orig_name,returns,exempts
 06081,CA,San Mateo County,613,922
 48113,TX,Dallas County,565,871
 15003,HI,Honolulu County,519,818
-57005,FR,Foreign - APO/FPO ZIPs,429,754
 25017,MA,Middlesex County,448,642
 48439,TX,Tarrant County,316,570
 04019,AZ,Pima County,360,557
@@ -340,7 +338,6 @@ origin,st_orig_abbrv,co_orig_name,returns,exempts
 42129,PA,Westmoreland County,23,31
 44003,RI,Kent County,21,31
 49043,UT,Summit County,20,31
-57003,FR,Foreign - Puerto Rico,21,31
 08067,CO,La Plata County,22,30
 42043,PA,Dauphin County,25,30
 06109,CA,Tuolumne County,22,29
@@ -360,4 +357,3 @@ origin,st_orig_abbrv,co_orig_name,returns,exempts
 42133,PA,York County,20,26
 39151,OH,Stark County,21,25
 42095,PA,Northampton County,20,24
-57009,FR,Foreign - Other flows,,
